@@ -1,16 +1,10 @@
 # Console-Based Chess Game with AI Opponent
 
-This repository contains the implementation of a console-based chess game developed for **Applied Artificial Intelligence** Assignment 3 at FAST – National University of Computer & Emerging Sciences, Islamabad Campus. The game allows a human player (white) to compete against an AI opponent (black), supporting all standard chess rules, including castling, en passant, pawn promotion, checkmate, and stalemate.
+This repository contains the implementation of a console-based chess game. The game allows a human player (white) to compete against an AI opponent (black), supporting all standard chess rules, including castling, en passant, pawn promotion, checkmate, and stalemate.
 
 ## Project Overview
 
 **Objective**: Develop a Python-based chess game with a human player interface and an AI opponent powered by the Minimax algorithm with alpha-beta pruning, adhering to standard chess rules and providing a user-friendly console experience.
-
-**Course**: Applied Artificial Intelligence (Spring 2025)  
-**Instructor**: Dr. Atif Jilani  
-**Submitted by**: Abdullah Daoud (22I-2626)  
-**Section**: SE-E  
-**Institution**: FAST-NUCES, Islamabad Campus
 
 ## Features
 
@@ -108,8 +102,3 @@ Contributions to improve AI strength or optimize performance are welcome:
 
 ## License
 MIT License - see `LICENSE` for details.
-
-## Contact
-- **Author**: Abdullah Daoud (22I-2626)
-- **Instructor**: Dr. Atif Jilani
-- **Institution**: FAST-NUCES, Islamabad Campus
